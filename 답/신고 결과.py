@@ -1,4 +1,5 @@
 def count_report(report):
+    return 0
 def solution(id_list, report, k):
     '''
 
